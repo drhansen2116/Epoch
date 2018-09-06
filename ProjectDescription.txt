@@ -1,0 +1,11 @@
+Team Name: Epoch parking services (a particular period of time in history or a person's life)
+
+Team Members: David Hansen, Hunter Hatch
+
+  Product goal: Epoch will implement an automated solution between vendors and consumers for parking services during high-profiled
+  functions such as concerts, and sporting events. I also believe that this app could serve the purposes of roadtrippers traversing
+  unknown territories looking for a spot to camp.
+  
+  
+  
+  
